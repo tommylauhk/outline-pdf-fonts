@@ -1,0 +1,4 @@
+interface:
+  display_name: "Outline PDF Fonts"
+  short_description: "Outline fonts while keeping the document as a PDF"
+  default_prompt: "Use $outline-pdf-fonts to outline all fonts in this PDF, keep the output as a PDF, preserve vector objects, and verify that no font resources remain."
